@@ -1,5 +1,7 @@
-🎓 Student Result Processing System
-📝 Objective
+**🎓 Student Result Processing System**
+
+
+**📝 Objective**
 Build a MySQL-based system to manage student grades, GPA/CGPA calculation, and generate result summaries including rank lists and pass/fail reports.
 
 🛠️ Tools & Technologies
